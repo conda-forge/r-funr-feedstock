@@ -1,11 +1,11 @@
-About r-funr
-============
+About r-funr-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-funr-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/sahilseth/funr
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-funr-feedstock/blob/main/LICENSE.txt)
 
 Summary: A small utility which wraps Rscript and provides access to all R functions from the shell.
 
